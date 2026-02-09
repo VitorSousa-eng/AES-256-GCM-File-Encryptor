@@ -84,6 +84,3 @@ def decrypt_file():
     print("Restaurado em:", output_path)
 
 decrypt_file()
-
-from google.colab import drive
-drive.mount('/content/drive')
