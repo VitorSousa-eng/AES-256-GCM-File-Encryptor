@@ -26,12 +26,12 @@ Este projeto resolve esse problema ao criptografar os metadados junto com os dad
 
 ---
 
-## O que é criptografado
+# O que é criptografado
 Dentro do payload criptografado estão incluídos:
 - Conteúdo completo do arquivo;
-# Metadados:
-- Nome original do arquivo
-- Tamanho original (em bytes)
+- Metadados:
+  - Nome original do arquivo
+  - Tamanho original (em bytes)
 Esses metadados não ficam visíveis no arquivo .enc.
 
 ---
