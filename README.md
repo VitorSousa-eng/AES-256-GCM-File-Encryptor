@@ -37,17 +37,17 @@ Esses metadados não ficam visíveis no arquivo .enc.
 ---
 
 ## Como usar
-1. Criptografar um arquivo;
-- Execute a célula de criptografia no notebook;
-- Informe o caminho do arquivo;
-- Informe a senha (guarde-a com cuidado);
-- O arquivo será salvo como: arquivo_original.ext.enc.
+1. Criptografar um arquivo:
+  - Execute a célula de criptografia no notebook;
+  - Informe o caminho do arquivo;
+  - Informe a senha (guarde-a com cuidado);
+  - O arquivo será salvo como: arquivo_original.ext.enc.
 
-2. Descriptografar um arquivo
-- Execute a célula de descriptografia;
-- Informe o caminho do arquivo .enc;
-- Informe a senha correta;
-- O arquivo original será restaurado com o nome original, conteúdo intacto e metadados recuperados.
+2. Descriptografar um arquivo:
+  - Execute a célula de descriptografia;
+  - Informe o caminho do arquivo .enc;
+  - Informe a senha correta;
+  - O arquivo original será restaurado com o nome original, conteúdo intacto e metadados recuperados.
 
 ---
 
