@@ -43,8 +43,6 @@ Esses metadados não ficam visíveis no arquivo .enc.
 - Informe a senha (guarde-a com cuidado);
 - O arquivo será salvo como: arquivo_original.ext.enc.
 
----
-
 2. Descriptografar um arquivo
 - Execute a célula de descriptografia;
 - Informe o caminho do arquivo .enc;
