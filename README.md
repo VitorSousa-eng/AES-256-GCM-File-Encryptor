@@ -65,3 +65,7 @@ Este projeto foi desenvolvido com fins educacionais e práticos, demonstrando:
 - Uso consciente de KDFs;
 - Importância da proteção de metadados;
 - Boas práticas criptográficas aplicadas, não teóricas.
+
+---
+**Autor:** Vitor Sousa,
+Estudante de Engenharia Civil - UFMG
