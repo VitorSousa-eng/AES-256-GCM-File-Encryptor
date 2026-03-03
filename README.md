@@ -4,6 +4,7 @@
 ![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/cryptography-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![OS](https://img.shields.io/badge/os-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
   Este projeto implementa um sistema simples e seguro de criptografia e descriptografia de arquivos, utilizando AES-256-GCM, um padrão criptográfico moderno e amplamente adotado em ambientes profissionais.
 O foco não é apenas proteger o conteúdo do arquivo, mas também garantir que os metadados sejam criptografados, evitando vazamentos indiretos de informação. Nem todos sabem, mas arquivos(ex: .jpg, .png, .pdf, .docx...) podem carregar informações sensíveis nos metadados, como localização, data/hora, sistema operacional etc.
